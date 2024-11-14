@@ -1,2 +1,3 @@
 # batchesmail
-# Developed By Dhananjay Borkar
+# This is my first git repo
+# Author : Dhananjay Borkar
